@@ -1,81 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://aiti-flinders.github.io/eiat/404.html</loc>
-  </url>
-  <url>
-    <loc>https://aiti-flinders.github.io/eiat/LICENSE.html</loc>
-  </url>
-  <url>
-    <loc>https://aiti-flinders.github.io/eiat/articles/eiat_user_guide.html</loc>
-  </url>
-  <url>
-    <loc>https://aiti-flinders.github.io/eiat/articles/index.html</loc>
-  </url>
-  <url>
-    <loc>https://aiti-flinders.github.io/eiat/authors.html</loc>
-  </url>
-  <url>
-    <loc>https://aiti-flinders.github.io/eiat/index.html</loc>
-  </url>
-  <url>
-    <loc>https://aiti-flinders.github.io/eiat/news/index.html</loc>
-  </url>
-  <url>
-    <loc>https://aiti-flinders.github.io/eiat/reference/create_19_sector.html</loc>
-  </url>
-  <url>
-    <loc>https://aiti-flinders.github.io/eiat/reference/create_ioig_sector.html</loc>
-  </url>
-  <url>
-    <loc>https://aiti-flinders.github.io/eiat/reference/create_lq.html</loc>
-  </url>
-  <url>
-    <loc>https://aiti-flinders.github.io/eiat/reference/eiat.html</loc>
-  </url>
-  <url>
-    <loc>https://aiti-flinders.github.io/eiat/reference/get_data.html</loc>
-  </url>
-  <url>
-    <loc>https://aiti-flinders.github.io/eiat/reference/get_local_employment.html</loc>
-  </url>
-  <url>
-    <loc>https://aiti-flinders.github.io/eiat/reference/get_regional_employment.html</loc>
-  </url>
-  <url>
-    <loc>https://aiti-flinders.github.io/eiat/reference/impact_analysis.html</loc>
-  </url>
-  <url>
-    <loc>https://aiti-flinders.github.io/eiat/reference/impact_plot.html</loc>
-  </url>
-  <url>
-    <loc>https://aiti-flinders.github.io/eiat/reference/index.html</loc>
-  </url>
-  <url>
-    <loc>https://aiti-flinders.github.io/eiat/reference/live_and_work.html</loc>
-  </url>
-  <url>
-    <loc>https://aiti-flinders.github.io/eiat/reference/lq_basic.html</loc>
-  </url>
-  <url>
-    <loc>https://aiti-flinders.github.io/eiat/reference/lq_models.html</loc>
-  </url>
-  <url>
-    <loc>https://aiti-flinders.github.io/eiat/reference/national_19.html</loc>
-  </url>
-  <url>
-    <loc>https://aiti-flinders.github.io/eiat/reference/regions.html</loc>
-  </url>
-  <url>
-    <loc>https://aiti-flinders.github.io/eiat/reference/rtt_basic.html</loc>
-  </url>
-  <url>
-    <loc>https://aiti-flinders.github.io/eiat/reference/state_gos_coe.html</loc>
-  </url>
-  <url>
-    <loc>https://aiti-flinders.github.io/eiat/reference/update_national_io_table.html</loc>
-  </url>
-  <url>
-    <loc>https://aiti-flinders.github.io/eiat/reference/work.html</loc>
-  </url>
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>https://f-fof.github.io/eiat/404.html</loc></url>
+<url><loc>https://f-fof.github.io/eiat/LICENSE.html</loc></url>
+<url><loc>https://f-fof.github.io/eiat/articles/eiat_user_guide.html</loc></url>
+<url><loc>https://f-fof.github.io/eiat/articles/index.html</loc></url>
+<url><loc>https://f-fof.github.io/eiat/authors.html</loc></url>
+<url><loc>https://f-fof.github.io/eiat/index.html</loc></url>
+<url><loc>https://f-fof.github.io/eiat/news/index.html</loc></url>
+<url><loc>https://f-fof.github.io/eiat/reference/create_19_sector.html</loc></url>
+<url><loc>https://f-fof.github.io/eiat/reference/create_ioig_sector.html</loc></url>
+<url><loc>https://f-fof.github.io/eiat/reference/create_lq.html</loc></url>
+<url><loc>https://f-fof.github.io/eiat/reference/eiat.html</loc></url>
+<url><loc>https://f-fof.github.io/eiat/reference/get_data.html</loc></url>
+<url><loc>https://f-fof.github.io/eiat/reference/get_local_employment.html</loc></url>
+<url><loc>https://f-fof.github.io/eiat/reference/get_regional_employment.html</loc></url>
+<url><loc>https://f-fof.github.io/eiat/reference/impact_analysis.html</loc></url>
+<url><loc>https://f-fof.github.io/eiat/reference/impact_plot.html</loc></url>
+<url><loc>https://f-fof.github.io/eiat/reference/index.html</loc></url>
+<url><loc>https://f-fof.github.io/eiat/reference/live_and_work.html</loc></url>
+<url><loc>https://f-fof.github.io/eiat/reference/lq_basic.html</loc></url>
+<url><loc>https://f-fof.github.io/eiat/reference/lq_models.html</loc></url>
+<url><loc>https://f-fof.github.io/eiat/reference/national_19.html</loc></url>
+<url><loc>https://f-fof.github.io/eiat/reference/regions.html</loc></url>
+<url><loc>https://f-fof.github.io/eiat/reference/rtt_basic.html</loc></url>
+<url><loc>https://f-fof.github.io/eiat/reference/state_gos_coe.html</loc></url>
+<url><loc>https://f-fof.github.io/eiat/reference/update_national_io_table.html</loc></url>
+<url><loc>https://f-fof.github.io/eiat/reference/work.html</loc></url>
 </urlset>
+
