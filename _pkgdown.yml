@@ -1,6 +1,7 @@
-url: https://aiti-flinders.github.io/eiat/
+url: https://f-fof.github.io/eiat/
 template:
   bootstrap: 5
+
 reference:
 - title: "Employment"
   desc: >
@@ -40,4 +41,3 @@ reference:
   - state_gos_coe
   - lq_models
   - lq_basic
-

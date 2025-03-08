@@ -38,4 +38,6 @@ jobs:
           title: 'Scheduled data update'
           labels: automated pr
           branch: data-updates
+        run: |
+          curl -XPOST -u "${{ secrets.PERSONAL_ACCESS_TOKEN}}"
 
