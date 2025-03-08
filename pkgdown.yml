@@ -3,7 +3,7 @@ pkgdown: 2.1.1
 pkgdown_sha: ~
 articles:
   eiat_user_guide: eiat_user_guide.html
-last_built: 2025-03-08T02:29Z
+last_built: 2025-03-08T02:31Z
 urls:
   reference: https://f-fof.github.io/eiat/reference
   article: https://f-fof.github.io/eiat/articles
