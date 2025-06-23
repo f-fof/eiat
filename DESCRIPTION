@@ -18,7 +18,7 @@ Encoding: UTF-8
 LazyData: true
 LazyDataCompression: bzip2
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.3.1
+RoxygenNote: 7.3.2
 RdMacros: mathjaxr
 Imports: 
     aititheme (>= 0.0.0.9000),
@@ -42,7 +42,7 @@ Imports:
     tidyselect,
     usethis
 Depends: 
-    R (>= 3.5)
+    R (>= 4.1)
 Suggests: 
     knitr,
     rmarkdown,
@@ -50,5 +50,5 @@ Suggests:
 Config/testthat/edition: 3
 URL: https://f-fof.github.io/eiat/
 Remotes: 
-    aiti-flinders/aititheme
+    f-fof/aititheme
 VignetteBuilder: knitr
