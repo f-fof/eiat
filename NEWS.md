@@ -1,3 +1,9 @@
+# eiat 0.3.1
+
+## Date Updates
+
+* Updates to ABS National Account data for 2022-23 Financial Year
+
 # eiat 0.3.0
 
 ## Data Updates
