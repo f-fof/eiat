@@ -4,6 +4,7 @@ name: update-national-io
 
 # Controls when the action will run.
 on:
+  workflow_dispatch:
   schedule:
       - cron: '0 17 * * 5'
   push:
